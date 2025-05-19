@@ -25,7 +25,7 @@ Este projeto é o início de um gerenciador de mods para o Switch, e planejamos 
 ## Documentação
 🇺🇸 English
 How to Use
-Run the program (converter.exe if compiled, or python converter.py).
+Run the program (mod_manager.exe if compiled, or python mod_manager.py).
 
 Click "Select .pak Files" to choose the mod files you want to install.
 
@@ -56,7 +56,7 @@ Command Line Usage
 You can also run the program from the command line and provide .pak files directly:
 
 ```
-python converter.py mod1.pak mod2.pak
+python mod_manager.py mod1.pak mod2.pak
 ```
 These files will be automatically added to the list and copied when you click the "Create Folders and Copy Files" button.
 
@@ -69,7 +69,7 @@ More games and new features will be supported in the future.
 
 🇧🇷 Português
 Como Usar
-Execute o programa (converter.exe se estiver compilado ou python converter.py).
+Execute o programa (mod_manager.exe se estiver compilado ou python mod_manager.py).
 
 Clique em "Selecionar Arquivos .pak" para escolher os mods que deseja instalar.
 
@@ -99,7 +99,7 @@ Copie tudo que está dentro da pasta hogwarts_legacy para a raiz do seu cartão 
 Uso por Linha de Comando
 Você também pode rodar o programa via terminal e informar os arquivos .pak diretamente:
 ```
-python converter.py mod1.pak mod2.pak
+python mod_manager.py mod1.pak mod2.pak
 ```
 Esses arquivos serão adicionados automaticamente à lista e copiados quando você clicar em "Criar Pastas e Copiar Arquivos".
 
