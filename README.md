@@ -5,9 +5,6 @@
 **Importante: Os mods só funcionam em consoles Nintendo Switch com o firmware modificado utilizando o Atmosphere.**
 
 
-If your Switch is using official (stock) firmware, mods will not work under any circumstances.
-
-Atmosphere is a custom firmware that allows running homebrew applications and modifying games.
 🇺🇸 English
 This is a simple program designed to organize mods for Hogwarts Legacy on the Nintendo Switch. It allows users to select .pak files and automatically places them in the correct folder structure required by Atmosphere.
 
